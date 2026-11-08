@@ -39,3 +39,6 @@ Naive algorithm result: 625025000
 Naive algorithm time: 1.814004 seconds
 Single-pass algorithm result: 25000
 Single-pass algorithm time: 0.000058 seconds
+
+
+TOTAL is greater than or equal to each sub-measurement because it starts before the first call, and ends after the last too.
